@@ -1,0 +1,516 @@
+ Wir kommen zur Lage der Nation. Ausgabe Nummer 315 vom 7. Dezember 2022.
+ Und an dem Mikrofon, unseres politischen Wochenrückblicks begrüßen euch wie in jeder Woche,
+ Ulf Boomer, das bin ich und Philipp Hansel ganz herzlich willkommen zum politischen Podcast
+ von uns beiden, in dem wir die Lage hier zu landen und in der Welt zusammenkern, so
+ wie sie uns interessiert und wir die Dinge für relevant halten. Ein Thema in der heutigen
+ Lage ist einer der größten Bremsklütze der Verkehrswende hier zu lande und wie wir ihn mit
+ Volkerwissingshilfe eigentlich relativ leicht wegräumen könnten, aber dazu gleich mehr.
+ Werbung
+ Wie hängen Klimaschutz, soziale Gerechtigkeit, Frieden und Sicherheit zusammen? Und welche wichtige Rolle
+ spielt die Entwicklungspolitik? Die Antworten jetzt in Entwicklungssache. Der Podcast des
+ Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung. Hier diskutiert
+ Bundesentwicklungsministerin Svenja Schulze mit Experteninnen über die drängenden Fragen
+ unserer Zeit. Der BMZ-Podcast, den Entwicklungssache. Jetzt abonnieren.
+ Ja, und wir haben tatsächlich noch eine kleine zweite Hausmetallung passend nach unserem
+ allerersten Werbeblock, denn es gibt die Lage der Nation natürlich auch werbefrei,
+ das heißt also für die Menschen, die sie in Zukunft ohne Werbung hören möchten,
+ oder die sich einfach sagen, ich möchte unabhängigen politischen Journalismus unterstützen,
+ gibt es ein Lage plusabo unter pluspunkt, Lage den Nationenpunkt org. Könnt ihr euch das
+ klicken, könnt ihr selbstverständlich auch jederzeit wieder kündigen, wenn es nicht mehr haben
+ wollt. Und das unterstützt uns einfach dabei, die Lage weiter für viele, viele Menschen
+ kosten frei anbieten zu können. Zum ersten Thema, Ulf und da müssen wir glaube ich ganz kurz
+ an die Flut im Ahtal erinnern, die war letztes Jahr. Genau im Sommer ihr innent euch gab es
+ stark regentfälle in Nordrhein-Westfalen und Rheinland-Pfalz, insbesondere die dann im Tal
+ des Flussjens A zu einer Überschwemmungskatterstrophe geführt haben. Und dort sind nicht nur Straßen
+ und Häuser weggeschwemmt worden, sondern es brach auch die Kommunikation zusammen. Und zwar
+ nicht nur die Kommunikation der Menschen, also Telefonnetze, Hindernäze, sondern auch
+ die Kommunikationsnetze der Sicherheitsbehörden und der Rettungsdienste sind zusammengebrochen.
+ Und das darf natürlich gerade im Katastrophenfall nicht passieren.
+ Für alle, die sich da ein bisschen umgekümmert hatte und auch für eine breite Öffentlichkeit
+ kamen das aber wenig überraschend. Denn so eine Art Probellauf für die Warnsysteme und
+ Katastrophenwarnsysteme in Deutschland, der sogenannte Warnthag, der war nämlich ein Jahr
+ zuvor 2020 grandios in die Hose gegangen und selbst so eine Art kleine Katastrophe.
+ Nämlich der Warnthag 2020, 10. September 2020, viele werden es vielleicht mitbekommen haben.
+ Da sollten eigentlich so Warnsysteme getestet werden, die Serien und diese ganzen Warnäbsen,
+ Nina und Katwan. Und wie sie alle heißen, die sollten so ein Proberallarm schlagen. Aber das mündete
+ in den totalen Fiasco. Es hat überhaupt nicht funktioniert. Ja, da gab es also zunächst mal Kommunikationsfehler
+ zwischen Behörden, die haben sich dann hinterher auch gegenseitig den schwarzen Peter zugeschoben,
+ wer da angeblichen Fehler gemacht hätte. Alle möglichen Server sind zusammengebrochen,
+ weil sie überlastet waren. So kam es dann dazu, dass die Warnäbs Nina und Katwan viel zu spät
+ ein Alarm ausgesendet haben und die menschprechend die Menschen in Deutschland viel zu spät von einer
+ möglichen Gefahrensituation erfahren haben. Also der Warnthag 2020 war seinerseits eine Katastrophe
+ und der Warnthag 2021 wurde daraufhin gleich ganz abgesagt, weil da nämlich gedroht hätte,
+ dass es nicht wesentlich besser läuft. Nun allerdings wird mit Spannung erwartet, ob das Warnen
+ in Deutschland 2022 endlich klappt, Philipp. Und du hast sie den geplanten Ablauf für den Warnthag 2022 mal angesehen.
+ Ja, der soll ja morgen stattfinden. Wir nehmen mit, wo auf der soll am Donnerstag stattfinden. Und da
+ ist es vorgesehen, dass um 11 Uhr auf all diesen Kanälen, die du schon genannt hast, gewarnt wird, auf den
+ Apps auf Bahn an sagen, im Radio und im Fernsehen. Und Entwarnung soll es dann auch geben, nämlich um
+ 11 Uhr 45 mit einem langen Ton, der dann halt auf allen Kanälen signalisiert so. Testung beendet. Ob das klappt,
+ werden wir alle wahrscheinlich dann morgen in einem Live-Test mitverfolgen können. Ja, und in diesem
+ Jahr allerdings muss man sagen, ist der Warnthag auch schon im Grunde eine Premiere für eine neue alte
+ Technologie. Ich glaube, so kann man das zusammenfassen. Das ist nämlich eine Premiere für den sogenannten
+ DE Alert. Das ist die deutsche Bezeichnung für die Technologie Cell Broadcast, was das ganz genau ist
+ technisch erklären wir gleich. Aber bevor wir uns diese Hintergründe anschauen, Philipp, hast du
+ wieder es für das Schönheits-Auto für uns vorbereitet? Eigentlich genau. Wir haben im klassischen Radio
+ ja, wir hatten man die Fleisch zuerst gespielt, um Aufmerksamkeit zu erringen. Aber wir dachten wir wollen
+ euch ja jetzt ja nicht völlig verschreckend in Schockstare versetzen, sondern in den Ton gibt's
+ jetzt halt mit einer Vorwarnung. Dies ist also der Warnthog, den ihr morgen aller Wahrscheinlichkeit
+ nachhören werdet, wenn ihr im Handy-Netz der Telekommen unterwegs seid.
+ Dies ist ein Test für Cell Broadcast. Die Telekommen erprobt das neue
+ Handy-Warn-System in ihrer Region. Also das ist also die Telekommen, es war ein Test, aber so ähnlich
+ wird das morgen klingen und der Stichwort ist ja auch schon gefallen, Cell Broadcast. Ja, ganz genau,
+ das ist eigentlich eine steinalte Technologie aus den 90er Jahren, also quasi aus der Steinzeit,
+ der Handy-Technik. Cell Broadcast war ursprünglich mal gedacht, um Nachrichten auf alle Handys zu
+ verteilen, also zum Beispiel Fußballergebnisse oder Wetterberichte oder so, war aber lustigerweise auch
+ die technische Grundlage der sogenannten Home-Sown bei O2. Aber für diese Anwendungsfälle Nachrichten ist
+ die Technologie Cell Broadcast dann eigentlich nicht so richtig genutzt worden und deswegen
+ unterstützt auch so grob seit dem Jahr 2000. Viele Handys die Technologie Cell Broadcast eigentlich nicht mehr.
+ Beispielsweise das iPhone, das Jahr 2007 erstmals auf den Markt kam, konnte mit Cell Broadcast überhaupt
+ nichts anfangen. Aber dann wurde Cell Broadcast irgendwann als technische Basis von Warnmeldungen quasi
+ wieder entdeckt. Deswegen gibt es zum Beispiel auch eine EU-Richtlinie von 2018, die darauf aufbaut und die
+ deutsche Umsetzung dieser Nutzung von Cell Broadcast für Warnmeldungen, die heißt nun DE Alert.
+ Richtig, genau. Und Cell Broadcast kann das, glaube ich, leicht verwechseln mit SMS, aber es ist halt
+ was fundamental anderes. Das bedeutet ja, das Versenden von Warnnachrichten in einem Handynetz,
+ aber nicht an bestimmte Geräte, wie das bei SMS der Fall ist, sondern einfach an alle Geräte innerhalb
+ einer oder mehrerer Funkzellen. Man kann das also auch regional differenzieren. Man kann an das gesamte
+ Netz, an alle Geräte einfach verschicken oder man kann nur an Geräte etwas schicken, die in bestimmten
+ Funkzellen eingebucht sind, die an bestimmten Orten stehen oder man kann eben auch nur an alle Geräte
+ etwas schicken, die in einer ganz bestimmten Funkzelle einigen. Wenn es einfach nur zum Beispiel keine Ahnung,
+ bomben, fund an einer bestimmten Stelle oder so, dann kann man das daraus schicken. Und das Besonderes
+ halt, dass es nicht einzelne Handys adressiert, sondern sehr effizient und datenspaarsam einfach an alle,
+ die in Funkzellen eingebucht sind. Genau und überlastet eben das Netz auch nicht. Das wäre so ein
+ bisschen die Gefahr. Theoretisch könnte man ja sagen, wir schicken einfach jetzt allen Leuten SMS,
+ aber das wären in Deutschland 40, 50 Millionen SMS und die würden das Netz schon ganz gut
+ in Anspruch nehmen. Deswegen Cell Broadcast ist im Prinzip wirklich eine sehr, sehr schöne Idee und
+ ihr habt es eben gehört, es gibt eben einen Warnton und je nach Alarmstufe erklingt dieser Warnton bei
+ Handys eben auch im lautlos Modus. Das heißt also Cell Broadcast ist die Technologie, die da
+ drunter liegt und die Frage ist dann, was macht so ein Handy mit dieser Nachricht, die auf dem
+ Cell Broadcast Kanal ankommt? Und da gibt es jetzt eben bestimmte definierte Kanäle, die die
+ Handys als besonders wichtig wahrnehmen, wo dann eben auch bei einem Smartphone im Ruhe Modus
+ so ein Warnton erklingt, ihr habt den eben gehört den Ton von der Telekotton. Richtig genau und
+ Entwarnung ist dann halt eben so ein Dauerton und das besonders übungs bei den hier Broad Cell
+ Broadcast auch, dass es Oneway ist, also bei SMS kann es ja dann auch Antworten im Zweifel und
+ so, das geht natürlich hier nicht, sondern das ist einfach einwege Benachrichtigung an alle Handys in
+ Funkzellen. Was muss man also nun tun? Was müsst ihr nun tun, um das empfangen zu kennen, morgen oder
+ auch demnächst? Bei Android-Geräten wie gesagt schwank das ein bisschen unter Einstellungen, Benachrichtigung,
+ und Notfall-Benachrichtigung vom Mübügeräte wird man bei vielen Android-Fönlich-Samsunggeräte
+ haben, dass als Notfall-Benachrichtigungsverlauf klassifiziert in den Einstellungen, wo man eben gucken kann,
+ welche dieser Nachrichten will ich empfangen. Es geht natürlich sehr dringender und noch dringender,
+ noch noch dringender Nachrichten. Da kann man das so ein bisschen spezifizieren. Bei Apple-Geräten geht
+ das, die alle auf dem neuesten Stand ihrer jeweiligen Betriebssysteme Version sind. Geht das unter
+ Systemanstellung, Mitteilung, ganz, ganz, ganz, ganz, ganz unten. Ja. Könnt ihr abschalten, ob ihr solche Nachrichten
+ bekommen wollt, so ein Broadcast nachdenken. Genau, also ich muss geschieht, ich habe in meinem
+ einfach so ein bisschen gesucht danach, weil ich nämlich dachte, dass sei quasi diese Einstellungsseite,
+ wo man sonst einen Stellung für SMS und ein Message und so feststellt, turns out, das ist die Seite für
+ die Push-Nachrichten. Was so ein bisschen, finde ich so ein bisschen kontraintuativ, es war das ja
+ technisch eher was, so was ähnliches wie SMS. Aber gut, also auf der Seite, wo ihr sonst die Push-Nachrichtung
+ pro App einstellen könnt, da findet ihr ganz unten, wenn ihr ganz, ganz, ganz nach unten geskrelt habt, diese
+ Einstellung, die heißen da sogar, glaube ich, auch Sail Broadcast. Und genau, und es ist wichtig, dass bei
+ von uns eben die Geräte alle auf dem neuesten Stand ihrer jeweiligen Betriebssysteme Version sind.
+ Das muss nicht, dass aktuelle 16 seines reicht auch 15, aber da muss es dann eben die aktuelle
+ Version, die letzte Version von 15 seien. Bei Enwoods ist es so, dass glaube ich mindestens Android 11 installiert sein muss, aber es gibt eben
+ trotzdem, obwohl das eine sehr verbreitete Technik ist, immer noch Geräte, die das eben nicht
+ unterstützen. Ja, ganz genau, deswegen werden die Behörden wohl nach Schätzungen auch in diesem Jahr nur
+ etwa die Hälfte der Menschen erreichen, die ein Handy dabei haben. Also wir haben es gesagt, ältere Geräte oder solche
+ ohne die nötigen Updates können diese Warnung nicht empfangen. Es gibt sogar eine Website, wo eben die
+ Handys aufgezählt sind. Haben wir verlinkt. Dann haben wir verlinkt, könnt ihr den schauen uns gucken. Ja, dann aber wie gesagt, wir haben es
+ gesagt, nicht nur über Handy sollen die Warnung kommen, sondern auch über 100 Fernseh und Radio Sender, über Warnabs und so.
+ Aber wie sieht es denn aus mit Syrienen, Philipp? Das ist ja eigentlich so ein ganz klassisches Alarmierungsmittel.
+ Nach Ende des kalten Krieges wurden viele Syrien auch wieder abgebaut. Wie ist denn da der Stand her Dinge? Also es wurden viele
+ abgebaut. Es sind jetzt auch einige Millionen bewildigt worden, um einige Syrien wieder aufzubauen, aber das Geld
+ wird nach allem, was man so ließ nicht ausreichen, um jetzt eine wirklich umfassende Syrieninfrastruktur wieder zu installieren.
+ Außerdem ist, oh, wunder, die Zuständigkeit für diese Warnsysteme zersplittert mal wieder zwischen Ländern und Bund.
+ Wie überhaupt, glaube ich, das größte Problem nicht nur ein technisches ist, das werden wir jetzt rausfinden, sondern eben auch, dass die
+ föderale Verteilung dieser Behörden und Zuständigkeiten für die Warnung der Bevölkerung im Katastrophen fallt. Das scheint ein großes
+ Problem zu sein, was da alles schiefgehen kann. Das werden wir, denke ich, durchaus morgen vielleicht wieder sehen, was man genau
+ ändern könnte und wie man das verbessern könnte. Haben wir gesagt, das besprechen wir in nächste Woche, wenn wir dann den Warntag eben auch auswerten.
+ Genau, wir wollen jetzt auch nicht schwarz malen. Es könnte ja sein, dass der Warntag entgegen diesen doch eher skeptischen Prognosen glatt geht.
+ Vielleicht klappt ja auch alles, dann können wir uns einfach freuen und überlegen dann nur, was man trotzdem im föderalen System vielleicht noch verbessern könnte.
+ Zu unserem nächsten Thema. Russland hat uns in der Lage in letzten Wochen weniger beschäftigt, aber wir sollten trotzdem nicht vergessen, dass Russland
+ seine Nachbarn-Ukaini überfallen hat. Dieser Krieg geht weiter. Weiterhin landen praktisch jeden Tag russische Raketen auch in zivilen
+ Zielen in der Ukraine und diese ganzen Raketen, diese ganze Munition, die da verschossen wird von russischer Seite. Die kostet natürlich
+ wahnsinnig viel Geld und zur traurigen Wahrheit gehört auch, dass dieses Geld lange Zeit zu einem sehr großen Teil ausgerechnet aus der europäischen Union stammte.
+ Wir haben also diesen russischen Angriffskrieg gegen die Ukraine Nolens-Wolens mitfinanziert. Insbesondere, nämlich über den Preis, den wir für fossile Brennstoffe wie Erdgas und Erdwürfe zahlt.
+ Ja, das kann man glaube ich gar nicht genug betonen, dass das wirklich ein verretabler Energiekrieg auch ist. Es ist ein Krieg mit heißen Waffen,
+ wohl viele Leute sterben, aber Energie, fossile Energie spielt in diesem Krieg auf ganz vielen Ebenen eine ganz zentrale Rolle.
+ Russland greift Energieressourcen und Strukturen in der Ukraine an, aber eben setzt auch Europa, Deutschland, unter Druck, weil zum Beispiel kein oder kaum noch Erdgas geliefert wird, jedenfalls nicht in die EU.
+ Und nun geht es also auch in der EU darum, dass man Russland nicht nur möglichst wenig Gas mehr abnimmt, sondern auch noch möglichst wenig Erdöl in Russland einkaufen will und den Vertrieb von Erdöl der ganz signifikanten Teil des russischen Haushaltsausmacht.
+ Global auch einschränken möchte und die Frage ist jetzt, wie geht das?
+ Ja, ein Element dieses bestrebens den russischen Verkauf von Erdöl, soweit wie möglich einzuschränken ist, dass die Europäische Union selbst, so wenig Öl wie möglich in Russland kaufen möchte.
+ Deswegen hat sie grundsätzlich ein Bolkot russischer Erdöl in Porte in die EU beschlossen.
+ Dieser Überkott ist auch zum ersten Dezember in Kraft getreten, das heißt von diesem Montag ankauft die Europäische Union kaum mehr Öl aus Russland.
+ Aber leider Gott, es hat natürlich auch dieser EU-Bakot wie praktisch alle anderen auch gewisse Lücken, das heißt es gibt Ausnahmen.
+ Einige U-Länder bekommen trotzdem noch Öl aus Russland unter anderem ausgleichen auch Deutschland, weil die Raffinerie in Schwed in Brandenburg nicht einfach so abgeschaltet werden sollte.
+ Ja, ist halt eine Struktur schwache Gegend. Man wollte die Arbeit's nicht gefährden. Auf der anderen Seite muss man sagen, "Betold brecht hätte dazu wahrscheinlich gesagt, erst kommt das Fressen dann die Moral."
+ Ja, aber soweit ich weiß, gilt dieser Ausnahme für Schwed nur noch bis Ende des Jahres. Also die haben sozusagen 30 Tage Ausnahme Regelung.
+ Bei anderen Ländern ist das anders. Ungarnschechens, wo wir klar, glaube ich, die haben erst mal keine Zeitbegrenzung, die kriegen unbefristet bis auf weiteres erst mal noch Öl aus der russischen Druschbar-Heiplein und nach Angaben von EU-Bahmten sind von diesen ...
+ Man hat fast beurkaut rund drei Millionen Barrel Öl pro Tag betroffen, also ein Barrel 1952 L.
+ Und bei einem langfristigen Durchschnittspreis von 70 Dollar, also 76 Euro pro Barrel würde Russland damit pro Tag erlöse in Höhe von 210 Millionen Dollar, also rund 200 Millionen Euro entgehen pro Tag.
+ Klar, Öl könnte man natürlich jetzt auch woanders verkaufen, aber da sagt die EU, dass sie das komplette Öl, was sie bisher in die EU geliefert haben woanders los werden, ist eher unwahrscheinlich.
+ Aber Großisches Öl geht natürlich weiterhin auch in viele Nicht-I-U-Länder und deswegen möchte die EU neben dem eigenen,
+ "Bolecott/seemibolecott" nun dafür sorgen, dass auch andere Staaten möglichst wenig Geld für Öl an Russland zahlen und dazu hat sie sich eine relativ kreative Lösung ausgedacht, nämlich ein Preisdeckel für russisches Öl, das heißt also,
+ die Europäische Union und ihre Partnerstaaten wie die G7, die sieben größten Wirtschaftsstationen der Welt und zum Beispiel auch Australien wollen Russland vorschreiben zu welchem Preis es sein Erteil auf dem Weltmarkt verkaufen darf.
+ Dieser Preisdeckel soll zunächst bei 60 US Dollar, das sind umgerechnet ca. 57 Euro, je Barrel, rohöligen, aktuell wird zum Beispiel für die Sorte Ural-Öl ein Preis von 76 Dollar bezahlt, das sind also 72 Euro stand vom Dienstach.
+ Und so ein Preisdeckel, Philipp, kann sich durchaus lohnend im Sinne von "Kann durch das Wirkungzeichen".
+ Also wenn der so funktioniert, dann hat zum Beispiel glaube ich hier Estlands Regierungschefin, Kaya Kallas, vorgerechnet, könnte jeder Dollar weniger, pro Barrel, also jeder Dollar weniger, pro Barrel, die russischen Einnahmen aus dem Ölverkauf, um 2 Milliarden Dollar, 1,9 Milliarden Euro pro Jahr drücken.
+ Also Pimal-Dau, 2 Milliarden Euro würden demnach Russland entgehen, wenn denn dieser Preisdeckel wirklich sich so durchsetzen lässt und wirkt.
+ Ja, das klingt ja jetzt erstmal nice, dann könnte man sich vorstellen, dass man auf diese Art und Weise durchaus starken wirtschaftlichen Druck auf die russische Regierung ausüben kann.
+ Aber wie kann jetzt die EU diesen Deckel eigentlich durchsetzen? Denn es ist ja überhaupt nicht selbstverständlich, dass die Europäische Union und ihre Partner starten, so unmittelbar in den Handelswischen Russland und dritt starten eingreifen.
+ Also wenn Russland an Indien oder Russland an Brasilien oder wen auch Ölverkauf, dann ist ja nicht so ohne weiteres Klamm, dass da irgendwelche europäischen Vorstellungen zu dem zulässigen Preis dieser Erdl-Exporte überhaupt beachtet werden.
+ Der Hebel für diesen Preisdeckel, also wie man den quasi zwangsweise umsetzen oder durchsetzen möchte, der Hebel dafür ist der Transport des Erdl-Export.
+ Ja klar, ein bisschen wird natürlich weiterhin auch über Pipelines exportiert, ganz klar, aber viel Öl aus Russland geht eben über das mehr sprich in Tankern.
+ Und im Markt für Erdöl-Tanker ist die EU und sind eben auch dieser anderen Player der G7 ein wichtiger Player.
+ Europäische Redereien betreuen nach Angaben von Russlerbeamten mehr als die Hälfte aller Tanker der Welt.
+ Und hier setzt eben die EU an mit zwei Hebeln. Der erste Hebel ist, Furen mit russischem Öl in Drittstaten sind verboten.
+ Das heißt, für europäische Redereien. Für europäische Redereien, es sei denn, der Preis für die Ladung liegt nicht höher als der Deckel, den die europäische Union festgelegt hat.
+ Mit anderen Worten, ein maximal Preis für Erdöl, das europäische Redereien transportieren dürfen.
+ Der zweite Hebel ist europäische Versicherung und andere Dienstleistungen.
+ Da reingehende Menge dran, wenn so einen Öl-Tanker durch die Welt fährt, dürfen solche Schiffsladung wie dieses Öl nicht mehr versichern.
+ Wenn eben das Öl für mehr als 60 Dollar pro Berl in Russland eingekauft wurde.
+ Und damit fallen europäische Redereien und ihre Schiffe praktisch aus, wenn es darum geht, teures Öl zu transportieren.
+ Und es macht den Export, teuren Öls nicht völlig unmöglich, aber doch viel schwerer, eben weil mehr als die Hälfte der Tanker ausfällt.
+ Wir haben uns natürlich jetzt gefragt, wie gut wird das wirken?
+ Ja, wenn europäische Union diese beiden Hebel ansetzt, Tanker und Versicherung, und dazu haben wir einen Experten gefragt, der auch schon mal in der Lage zu Gast war, nämlich Jens Alas.
+ Der ist seit Jahrzehnten in verschiedenen Funktionen in der Internationalen See-Schiffa tätig und arbeitet heute als Berater großer Redereien.
+ Und der wiederum schätzt die Wirkung dieser beiden Hebel sehr differenziert ein.
+ Also er sagt, schreibt uns, dass wir ein bisschen kommuniziert, erschreibt uns die Regeln für die Schiffe, werden vermutlich wenig effekt zeigen.
+ Denn russische Gesellschaften hätten schätzungsweise 100 Tanker mittlerweile gekauft, um eben russischen Öl Export unter russischer Flage realisieren zu können.
+ Diese Flotte reicht zwar links nicht aus, um die jetztigen russischen Öltransporte wirklich umzusetzen.
+ Und ohne die europäischen Redereien dafür bräuchte man ungefähr 250 bis 300 Tanker, aber zur Aushebelung des Preisdeckels könne diese Flotte doch kräftig beitragen, immerhin nur noch Schiffe.
+ Außerdem werde der Preisdeckel aller Voraussicht nach die sogenannte Dark Fleet vergrößern.
+ Also die dunkle Flotte, das sind eben Schiffe, die ohne IS, also ohne Automatik-Advertifika-System umherfahren.
+ Das haben auch viele Siegelboote, das ist einfach auf okv-basis so ein Funk, der ausfunkt.
+ Ich bin der und der Meinschiffsnahme, so ich bin auf dem Kurs da hin unterwegs.
+ Ich habe diese Ladung, also quasi so ein permanentes "Hallo, wer bin ich?", was die ausfunken und wenn sie das halt abschalten, dann sind sie nicht zu identifizieren, nicht zu sehen und daher im dunkeln unterwegs.
+ Und diese Schiffe sagt er werden zum Beispiel auch von iranischen Staatsräderalen durchaus eingesetzt.
+ Der zweite Hebel, also die Regeln für die Versicherung, werden hingegen nach Einschätzung von Jens Alas durchaus wirksam sein.
+ Denn so meint er, in diesem Bereich Versicherung, sein vor allem die sogenannten P&I Clubs, also Protection and Indemnity-Wichtig.
+ Und das sind Maritime Haftpflichtversicherungen, die auf Gegenseitigkeit beruhen.
+ Das heißt also, die Räder, die Mitglieder solcher P&I Clubs sind, versichern sich als Gruppe gegenseitig.
+ Die Idee ist schon ein bisschen, wenn einer einen Schadensfall hat an Zahlen einfach alle ein paar Prozent dieses Schadens und so,
+ ist die Haftung für alle gemeinsam zu stemmen. So sagt Jens Alas diese P&I Clubs dominieren den Weltmarkt für Maritime Haftpflichtversicherung.
+ Und unter deren Versicherungsschutz fallen zum Beispiel Schadensfälle wie eine große Ölpest als Resultat, einer Schiffskollision
+ oder einer Haverie. Und auf der anderen Seite ist ein Tanker ohne so eine P&I Versicherung auf Reisen zu schicken, fast unmöglich sagte uns.
+ Also Hafen und Kanalbehörden zum Beispiel verlangten, dass alle Anlaufenden oder durchfahren den Schiffen ein P&I Versicherungs-Nachweis an Bord haben und ohne ein solches Zettifikat
+ Könne ein Schiff beispielsweise nicht durch den suhes Kanal oder durch den Panamakanalf. Ja und das Materialisiert sichert schon beispielsweise am Bossbobos, wo nach verschiedenen Medienberichten und Beobachtungsplattformen die quasi die Tankerbewegung weltweit beobachten sich ein Tankerstaue bildet, weil eben türkische Behörden da jetzt genauer hingucken und bestimmte Versicherung verlangen, die diese Schiffe offenbar nicht so schnell mehr vorlegen können.
+ Und der Punkt ist jetzt, wenn diese Versicherung und diese P&I wegfallen, weil eben zum Beispiel europäische Versicherung, die sie nicht mehr austeilen dürfen, wenn eben das Öl mehr als 60 Euro gekostet hat, dann können diese Schiffe nur ohne diese Versicherung fahren.
+ Die kriegen einfach diese Versicherung nicht mehr und sind dann erst mal quasi ohne Versicherung unterwegs. Das heißt entweder sie kommen halt in diese Hefen nicht rein, sie können viele Straßen nicht passieren und um das überhaupt realisieren zu können, brauchen sie dann Ersatz für diese europäischen Versicherung und das können nur Birkschaften von Staaten sein staatliche Garantie.
+ Ja, genau. Und da kann man sich sehr fragen, was so eine staatliche Garantie wert ist, wenn sie zum Beispiel von Russland kommt. In Zweifel wegen des Sanctionsregimes nicht so wahnsinnig viel, weil Russland einfach langsam auch sicher auch die Dollars ausgehen.
+ Anderer seins könnte es aber natürlich auch Garantien von indischen oder chinesischen Behörden geben.
+ Und dann wird dann so aussehen, also wenn eine Unfall passiert, dann stehen wir indischer Staat oder chinesischer Staat dafür ein und werden das zahlen und hier ist übrigens ein Brief. Liebe Kanalbehörde, liebe Hafenbehörde, wir garantieren dafür und diese Hafenbehörde und Kanalbehörde muss das natürlich dann akzeptieren.
+ Und das ist auch noch so eine Frage, wie kommt man dann bei mich in die chinesischen Staat, an die Dollars-Falls-Verschief geht und so. Also das ist alles andere als ein etablierter Mechanismus.
+ Also wenn man das jetzt mal alles so zusammenbindet, es gibt zwei Hebel, die die europäische Union einsetzen will, transportverbote für Schiffe und strengeregeln für Versicherungen.
+ Alles jeweils gekoppelt an diesen maximalpreis für Öl-Exporte und diese Hürden sind nicht völlig unüberwindbar.
+ Das heißt also komplett dicht ist auch dieses Sanktionensystem nicht, aber jedenfalls die Einwirkung auf die Versicherung, so wäre so die Prognose von Jens Alas, dürfte doch dazu führen, dass es jedenfalls extrem schwer wird für Russland, teureres Erdöl zu verkaufen.
+ Auf der anderen Seite bedeutet es aber auch, solange diese Preisgrenze von 60 Dollar eingehalten wird, können westliche Rede rein mit ihren schiffen weiter russisches Öl zum Beispiel nach Indien-Tiener oder in andere Länder bringen und auch Dienstleistung wie Versicherungen technisch helfen.
+ Und so dürfen weiter angeboten werden, wenn das Öl aber teurer ist, dann funktioniert all das nicht.
+ So, und jetzt steht sich natürlich aber die Frage Philipp, wie so den eigentlich ein Preis Deckel statt eines kompletten Verbots, man könnte ja denken, wenn russische Erd- oder Exporte einfach komplett verboten würden, würde Russland noch weniger einnehmen.
+ Ja, oder auch als alternative Warum der Deckel bei 60 Euro und nicht bei 20 oder 30 oder so was.
+ Und dann ist es jedes Mal das selbe, dass einfach Russland sagen könnte, nee, machen wir nicht, das ist uns entweder zu teuer oder wenn man es halt ganz bollkottiert, gut dann geht es halt gar nicht raus.
+ Und dass damit das Ölknapp würde und der Ölpreis weiter steigen würde.
+ Also mit anderen Worten Russland soll weiterhin Öl verkaufen. Auch aus Sicht der EU, denn sonst würde diese wertvolle Ressource auch auf dem Weltmarkt noch knapper.
+ Und als die Preise würden auch im Westen noch weiter steigen, aber vor allem möchte die europäische Union die Kosten von Drittländern senken, insbesondere in von Entwicklungsländern, man will dort auf gar keinen Fall armut oder Krisen hervorrufen oder verschärfen, die dann zum Beispiel zu mehr Migration nach Europa führen könnten.
+ Die Idee ist, Russland soll einfach nur mit seinem Öl möglichst wenig verdienen, da die Idee mit dem Preis Deckel statt eines kompletten Verbots.
+ Und das ist halt ein Drahtzelakt. - Ist ein Kompromiss. - Ist ein Ausbalanciungssie, wo Russland soll weiter produzieren, soll auch weiter liefern, soll auch weiter Geld dafür kriegen, aber nicht von uns in der EU und von den anderen schon, aber da bitte nicht so viel.
+ Ja, also ich finde das tatsächlich sehr interessant, ich bin sehr gespannt, wie der sich in der Praxis auswirkt.
+ Mich hat an diesem ganzen Thema vor allem fasziniert, mal so einen kleinen Blick reinzuwerfen. Wie komplex eigentlich diese Welt der internationalen Schiffstransporte ist, wo es da überall Stellschrauben gibt und wie effektiv die EU doch da auch zum Beispiel weit außerhalb ihrer Grenzen tatsächlich einwirken kann.
+ Das finde ich schon faszinieren zu sehen, man denkt ja, so Europa ist eben Europa ja schon wichtiger Markt, aber das ist aber eben auch ein kleiner Teil der Welt nur.
+ Und ich finde es schon interessant zu sehen, wie stark die EU auch weit außerhalb ihrer eigenen Grenzen doch tatsächlich noch einwirken.
+ Bühne über diese Versicherung, eine andere Dienstleister. - Ist schon spannend, der wäre ja. - Genau.
+ Aber es ist natürlich auch schwer zu kontrollieren. Klar, die europäischen Versicherung haste dann auch im Griff, aber es ist halt einfach ein globaler Markt, der in merkwürdigen Ländern stattfindet, wo Kontrollmechanismen halt auch nicht immer so gut funktionieren.
+ Aber gut, wir haben es geschildert und das ist jetzt seit Anfang der Woche in Kraft und da wird man sicherlich noch mal darauf zurückkommen, um zu gucken, wie das denn jetzt wirklich funktioniert.
+ Ja, zu unserem nächsten Thema. Wir schauen noch mal kurz in den Iran. Dort gehen nämlich weiterhin die Proteste weiter. In den ersten 79 Tagen der Proteste wurden nach Angaben-Iranischer Menschenrechtsgruppen 471 Menschen getötet und mehr als 18.000 verhaftet.
+ Anfang dieser Woche gab es einen Generalstreik, der heute mit Wochenenden sollte. Und dann gab es sogar ganz interessante Meldungen, nach denen die Sittenpolizei,
+ diese Moralpolizeibehörde, die zum Beispiel schaut, aber auch das Kopf durch richtig sitzt, angeblich sogar abgeschafft werden sollte. Aber Philipp, das hat sich ja dann doch nicht so richtig materialisiert und man muss ganz ehrlich sagen, aus der Perspektive eines westlichen Beobachters ist die Lage relativ unübersichtlich. Und das war für uns als Lage einfach eine schöne Gelegenheit und die Situation vor Ort doch nochmal neu einordnen zu lassen.
+ Und zwar von Ali Fatoulanejad, der ist, wie er sagt, freischaffender Politikwissenschaftler momentan Iran-Experte an der American University in Bayruth, also im Liebernorn, Essen, ja, angesehener Experte in Sachen Iran. Und wir haben das Gespräch gestern Dienstag aufgezeichnet, wie das so ist manchmal aus Termingründen.
+ Und unsere erste Frage an ihn war, was ist denn nun dran an dieser Meldung, dass die Sittenpolizei angeblich aufgelöst wird, was es von dieser Meldung zu halten?
+ Da ist nicht viel zu halten von die Aussage, kommen von einem Standsanwalt aus Ätheran vom Samstag, vom letzten Samstag, der in sehr wagen Worten darüber gesprochen hat, dass die Sittenpolizei
+ der Faktor aufgehört habe zu existieren. Und in meinen Augen ist es ein kalkuliertes Ablenkungsmanöver vom Regien mit hauptsächlich auszändischen Konsum.
+ Was heißt Ablenkungsmanöver steckt dahinter?
+ Zwei Aspekte, das Timing ist natürlich nicht uninteressant. Das eine ist, dass Iran dadurch suggerieren möchte, dass man quasi die Rufe auch der Entzahlsangemeinschaft und der Menschen gehört hätte, dass die Sittenpolizei aufgelöst wird.
+ Und das nicht zuletzt vor dem Hintergrund der Untersuchungsmission des UN Menschenrechtsrates, Teran will möglichst verhindern, dass beispielsweise unliebsame Bilder von gewaltvollen Vorgreifen gegen der Sittenpolizei
+ an die Weltöffnigkeit gelangen oder an die Untersuchungskommission weitergleitet werden. Das ist eine. Das zweite ist ein Ablenkungsmanöver im Bezug auf den Generalstrike, der jetzt diese Woche stattfindet.
+ Okay, aber wie bewerten Sie denn jetzt diesen Genenalstrike?
+ Das ist schon beachtig, also die Partizipation an diesem Generalstrike ist beachtlich. Wir sehen das sowohl große Basare als auch wichtige Industrieen
+ bei diesem Generalstrike mitmachen. Bei ersteren ist es wichtig zu wissen, dass Basare traditionell, eher als Regiennagalten. Es gibt die sogenannte Homs, dass es eine Abgabe von einem 5-Düller Einkommen der Basaris, die an den schietischen Klerus immer gegangen sind.
+ Das war schon vor der Revolution von 79 so. Und das bedeutet, dass jetzt große Basare, vor allen Dingen jener in Tabri, sie meiner Geburtstadt,
+ der 2-Grüste-Basar nach Theran auch da mitmachen, auch in Warsch, das ist der größte Basar im gesamten Norden Iran und der zentrale Basar.
+ Und in Theran haben wir noch 2 größere Basare, die auch mitmachen. Das ist schon erstaunlich diese Partizipation. Es gibt unzählige Händler, die auch ihre Arbeit niedergeliecht haben, ihre Lebenssutzung zugemacht haben.
+ Und darüber hinaus haben wir Arbeitsniederlegung in wichtigen Industrie, nicht in der Gesamtenfabrik beispielsweise immer, sondern vielleicht in Teilen von größeren Werken.
+ Aber das sind größere Werke der metallurgie, der Energie und der Zuckerwirtschaft.
+ Zu diesem Basar, der fällt ja häufiger, dieses Stichwort über Basare. Warum sind die so wichtig?
+ Wir sind natürlich historisch wichtig, weil die islamische Republik eigentlich sich konsolidieren konnte als Staat nach der Revolution durch eine Allianz zwischen den Basaris, also den Händlern und dem schietischen Klerus.
+ Und so dass dann der Basar quasi die ökonomische Basis wurde für den schietischen Klerus. Mittlerweile haben wir eine viel mehr diversifizierte, iranische Wirtschaft.
+ Aber Basare werden eher als traditionell empfunden und deswegen eher pro Regime. Aber wir sehen, dass vielleicht doch viel mehr Unmut dort zu sehen ist als gedacht.
+ Und wie sehr wackelt dieser Kopftuchzwang? Da muss man glaube ich zwei Aspekte benennen, dass eine ist, dass Defaktor die Sittenpolizei gar nicht mehr so viel patrolliert, nachdem dieser Revolution ihre Aufstand in Iran begonnen hat.
+ Weil es natürlich sehr viel Unmut generiert in der Bevölkerung und zum anderen war das sehr viele Sicherheitskräfte auch bindet, die für die Repression gegen den Aufstand als ganzes benötigt werden.
+ Die zweite Dimension ist, dass die Kopftuchfrage und trennbar ist mit der politischen Identität der islamischen Republik. Mit anderen Worten kann man sich keine Abschaffung der regieben Kleidervorschriften vorstellen, ohne dass es wirklich an die Substanz der islamischen Republik geht.
+ Und vielleicht noch als dritte Dimension auch, falls es dort zu lockererungen kommen sollte, gibt es nach wie vor uns die gesetzte die Frauen feindlich sind, sodass die Menschen in Iran und auch die Frauen Iran sich durch solche Ablenkungsmanöver eher weniger beeindrucken lassen, weil sie nämlich auch wissen, dass diese Proteste ja nicht um die Kopftuchfrage sich drehen, sondern um die Systemfrage.
+ Und wie sehr sehen Sie das Regime in Gefahr? Ich glaube das Regime hat die größte Herausforderung seit Beginn ihrer Existenz, also seit 1979. Wir haben in Iran in der Vergangenheit immer Proteste gehabt.
+ Wir haben 2009 einen Protest gehabt von der grünen Bewegung, die von der Obermittelschicht getragen wurde.
+ Wir hatten in den letzten Jahren landesweite Proteste, die dann wiederum von der Unterschichten getragen wurden. Diesmal ist es etwas qualitatief neu, weil es ein Schichten übergreifende Aufstand ist, dass nicht der Fall war in der Vergangenheit.
+ Und ich argumentiere schon seit diesen ersten größeren Landesweiten-Protessen, die von der Unterschicht getrieben wurden, also zur Jahreswende 2017-18, von Beginn eines langfristigen revolutionären Prozesses in Iran,
+ weil eben die Unterstützung durch die Unterschicht, die als soziale Basis des Regimes wahrgenommen wurde, weggebrochen ist.
+ Und diesmal haben wir den Missing-Link. Der Missing-Link ist das Schichten übergreifende, dass ein Schichten übergreifende Aufstand ist. Das wissen wir auch durch einen großen Lieg von der Hekte Wissengruppe Black Reward, wo auch gezeigt wird, dass die obersten Stellen im Regime dieses Schichten übergreifende auch als veritäbte Gefahr wahrnehmen.
+ Das bedeutet, dass Iran nun mehr in revolutionären Gewässern ist und dass dieser revolutionäre Prozess im Gange ist. Ob und wann, vor allem dieser revolutionäre Prozess zum Erfolg, kommt das von einer quantitativen und qualitativen Expansion dieses Aufstands ab.
+ Und für wie wahrscheinlich halten Sie das, dass die Proteste sich quantitativ und qualitativ tatsächlich ausweiten und das Regime am Ende sogar gestürzt wird?
+ Ich glaube, die sehen diese Woche, dass wir eine quantitative Ausbreitung haben durch die Streiks in den Basaren, aber auch in wichtigen Industrien. Das ist in meinen Augen ein qualitativer Fortschritt.
+ Und quantitativ müssen wir sehen, wie weit noch mehr Menschen sich hinzugestellen, aber diese Woche zeigt ganz eindeutlich, dass dieser revolutionäre Prozess nicht stagniert, sondern auch ein Schritt weiter gegangen ist.
+ Der letzte Frage für wie groß halten Sie denn die Wahrscheinlichkeit, dass innerhalb des Regimes ein Rissauftritt und sozusagen ein Militärputsch innerhalb des Militärregimes gibt?
+ Die Diskussion um eine potenziellen Militärputsch von Seiten der ist namenschne Reparationsgarten ist schon einige Jahre alt und das hängt weniger mit diesem Protessen zu tun als mit der Frage, dass der Oberstaffierer schon als krank gilt und 38 Jahre alt ist.
+ Also das ist nur eine Frage der Zeit, wenn wir es mit einem Post-Ramene-Iran sozusagen zu tun haben. Ich denke, das ist durchaus nicht auszuschließen, dass die Reparationsgarten versuchen ihre absolute Dominanz, die sie im iranischen System in der Wirtschaft auch in der Politik im Ding daheim diensten haben, weiter retten werden in ein Post-Ramene-System.
+ Wir werden dort noch politisch noch machtvoller, das heißt aber nicht, dass dadurch der revolutionäre Prozess zum Sticken kommt, weil die Reparationsgarten, die ja der wichtigste Player in iran sind, auch in der politischen Herrschaft waren nicht in der Lage auch eine Politik mitzunterschützen, die die zwei Motoren der Unzufriedenheit in iran definiert.
+ Die Sozialkonmissimisiere, die kassierende Armut, das andere ist ein politisch-orthokatisches System.
+ Ich danke Ihnen für das Gespräch und den spontanen Einsatz.
+ - Du gerne.
+ - Zu unserem nächsten Thema.
+ Wir schauen, wie ganz am Anfang dieser Folge versprochen, noch mal auf den Verkehrsbereich und auf die sogenannte Verkehrswende.
+ Die Ampelkoalition ist ja in diesen Tagen genau ein Jahr alt und ihre Bilanz ist, wie das eigentlich immer so ist, wenn man versucht, politisch Bilanz zu ziehen,
+ durchwachsen.
+ - Ich kann es nicht anders sein.
+ - Das ist fast ein Stereotyp, wo man sich kaum noch traut.
+ - Wie soll es auszusprechen?
+ - Aber man kann glaube ich schon sagen, ohne zu übertreiben, dass vor allem bei der Verkehrswende doch verdammt wenig passiert ist, Philipp.
+ Und vielleicht ordentlich mal zu nächstes Mal ein, warum ist diese Verkehrswende eigentlich wichtig?
+ - Richtig genau.
+ Wir verwenden das immer so, als wäre das allen klar, wie sich das so aufteilt, aber ich glaube, das schade nicht, dass noch mal ein bisschen in größeren Rahmen zu hängen.
+ Deutschland will ja klimaneutral werden und dabei sind halt verschiedene Wänden notwendig, von denen wir ja auch viel sprechen.
+ Das eine ist diese Energiewende, also raus aus der Kohle hin zu erneuerbaren Energien, ausbaut der erneuerbaren Energien.
+ Das ist die Energiewende.
+ Dann gibt es so die Wärmewende, also wie erzeugen wir eigentlich Wärme, da geht es dann um Häuser, Gebäude, isolieren, Gebäude, anders beheizen, mit klimafreundlicher Fernwärme oder Wärme-Pumpen.
+ Und es geht auch ums Energie sparen. Und dann gibt es die Verkehrswende.
+ Da ist natürlich viel gesprochen über Elektroautos, Elektrifizierung des persönlichen oder des privaten Verkehrs, über nachhaltige Kraftstoffe, für das, was ich nicht elektrifizieren lässt.
+ Also Flugzeuge, Tanker, solche Sachen.
+ Aber es geht eben auch um Städte.
+ Es geht um den öffentlichen Personen, Nahverkehrs geht um Ratfahren, es geht um Fußgänger, Fußgängerin und insgesamt eine gerechtere Aufteilung des Obers.
+ Ja, genau. Unsere Städte sind ja in den 50er, 60er, 70er Jahren quasi umgebaut worden zu Autogerechten Städten, was die Städte generell nicht schöner gemacht hat und was sie insbesondere für Menschen, die nicht im Auto unterwegs sind, häufig zu wenig Lebenswertenorten gemacht hat.
+ Und da ist eigentlich fast Konsens und auch Parteigübergreifend eigentlich akzeptiertes Ziel, wenn auch mit Nüonzen, dass dieser Irrweg der Autogerechten statt jetzt langsam aber sicher zurückgebaut wird.
+ Aber sicher zurückgebaut werden soll, dass die Stadt einfach lebenswärter werden soll für alle, die nicht im Auto unterwegs sind.
+ Und man muss ganz ehrlich sagen, diese verschiedenen Elemente der Verkehrswende sind häufig ziemlich dicke Bretter, häufig stellen sich komplexe Probleme.
+ Aber alles davon ist machbar und einiges, also insbesondere dieser Rückbau der Autogerechten statt, könnte eigentlich überraschend einfach und günstig sein.
+ Und da Philipp haben wir ja jetzt gerade auch in der Pandemie gesehen, dass einige Kommunen dadurch aus Mut und Lern entwickelt haben.
+ Noch richtig, genau. Fußgängerzonen haben viele eingerichtet. Pop-Up-Ratwege, also nicht in Berlin, aber nicht nur in Berlin, sondern auch in vielen anderen Städten, sind wirklich Infrastrukturen auch verändert worden,
+ weil die Leute raus sollten, aus der U-Bahn raus sollten, aus Fahrrad sollten, in der Pandemie, aber viele eben auch gesehen haben.
+ Wie geil ist das denn bitte, wenn nicht so viele Leute in der Stadt unterwegs sind und wir hier Fahrrad fahren können und in Ruhe futzt.
+ Zufrieden, nicht so viele Autos fahren. Nicht so viele Autos fahren. Genau.
+ Das Ding ist, warum wir das hier auch noch mal anschopzen ist, selbst wenn eine große Mehrheit in der Kommune in der Stadt oder wo auch immer diese Politik stützt,
+ wird sie doch oft ausgebremst durch die sogenannte Straßenverkehrsordnung kurz SDVO.
+ Die kennt man halt, weil ja, 50, ich muss mal fahren, also es ist 50, da steht in der SDVO, aber ich glaube, vielen ist nicht bewusst, was für eine unglaubliche Bremse diese Straßenverkehrsordnung beim menschenfreundlichen Umbau unserer Dörfer und Städte ist.
+ Und deswegen war sie zum Beispiel auch Thema bei der Tagung der Verkehrsminister*innen, der Länder und des Bundesverein-Partagen und tauchte auch in so einem kleinen Nebensatz in dem Protokoll dieser Tagung auf.
+ Da kommen wir gleich noch drauf zurück, aber damit so ein bisschen plastischer wird, wo eigentlich die Straßenverkehrsordnung, die Verkehrswende bremst, wo sie den Behörden unglaublich viele Steine in den Weg legt, wenn es darum geht, unsere Städte lebenswärter zu machen.
+ Dazu schauen wir nach Berlin in die Mitte von Berlin und zwar auf das Beispiel Friedrichstraße.
+ In Bernf合ffi, viele euch schon mal auch die nicht in Berlin wohnen, ist halt eine Einkaufstraße im Herzen-Berlin, direkt um die Ecke vom Jan-Darmmarkt, eigentlich eine schöne gute Gegend, aber die Straße selbst ist einfach voll.
+ Bei Jahresgibt Geschäfte, auch einzelne Cafés, aber die Aufenthalsqualität im Sinne von Fahrradfahren, Fußgänger, Bummeln und so.
+ Oder auch mal Hinset, auch mal.
+ Das ist da einfach nicht gegeben, weil es einfach schlicht eine Autostrasse ist. Es gibt kaum Plätze für Tische, Stühle und Bäume.
+ Kurz wirklich keinen angenehmen Platz zum Leben gibt es da, es sei denn man ist halt mit dem Auto unterwegs.
+ Wenn man dort ist, will man eigentlich nur schnell wieder weg.
+ Und deswegen ist seit Jahren politisch entschieden, die Friedrichstraße soll für den Autoverkehr geschlossen werden, gibt es große Mehrheiten auch in der Stadt dafür, die soll also Fahrradstraße oder sogar Fußgängerzone werden.
+ Und du würde mal ja denken, wenn die Kommune, also in Berlin sind das die Bezirke, dass du will, dann wird es dafür auch schon eine rechtliche Möglichkeit geben.
+ Die Kommune müsste doch beschließen können.
+ Ja, diese Straße wird jetzt Fahrradstraße, die wird Fußgängerzone, aber so einfach ist das nicht.
+ Ja, die Friedrichstraße war gerade rund zwei Jahre für Autos gesperrt, aber nun wurde sie vor Kurzem wieder geöffnet.
+ Und zwar auf Beschluss des Verwaltungsgerichts Berlin.
+ Das ist sozusagen eine Verkehrswende rückwärts.
+ So ist die Friedrichstraße also ein Beispiel dafür, was in Deutschland bisher wirklich rechtlich substanziell schiefläuft im Straßenverkehrsrecht.
+ Und um zu verstehen, was das alles so bedeutet, muss man sich kurz die Frage stellen, klingt banal ist, aber dann gar nicht.
+ Was macht eine Straße eigentlich zur Straße?
+ Ja, man würde ja denken, Parmetre Asphalt, Striche am Rand, Straße.
+ Ja, es quarkt wie eine Ende, es wadschelt wie eine Ende, wird schon eine Ende sein.
+ Aber rechtlich ist die Sache komplizierter.
+ Eine Straße muss nämlich nicht nur gebaut und getehrt werden, um Straße zu sein.
+ Es braucht auch eine Entscheidung einer Behörde, die sagt, dieses Stück Land mit dem Asphalt oben drauf oder mit den Kopfsteinflaster ist jetzt eine Straße.
+ Und auf juristisch sagt man dazu, die Straße muss dem Verkehr gewidmet werden.
+ Und wenn also eine Straße als Straße gewidmet wurde in einem Rechtsaktan, darf man darauf alles tun, was die Straßenverkehrsordnung erlaubt.
+ Das ist der sogenannte Gemeingebrauch.
+ Und dieser Gemeingebrauch, der umfasst nun mal auch Autos.
+ Und so lange die Friedrichstraße, eine Straße ist, als Straße gewidmet ist, dürfen im Prinzip darauf auch Autos fahren.
+ So und jetzt der sich die Frage, wie kann nun eine Kommune dennoch die Autos von der Straße bekommen?
+ Und die erste Möglichkeit, die quasi langfristige grundsätzliche Lösung des Problems, ist die sogenannte Umwitmung.
+ Das bedeutet, man kann den sogenannten Gemeingebrauch auch einschränken und sagen, ja, die Friedrichstraße ist eine Straße,
+ aber nicht mehr für den Autoverkehr gewidmet, sondern für andere Mobilitätsformen, also zu Fuß oder mit dem Fahrrad oder eben tatsächlich auch Fußgängerzone.
+ Und das hat die Berliner Verwaltung ja auch vor.
+ Die wollte die Berliner oder die will immer noch die Friedrichstraße umwittmen, um sie eben Verautos zu sperren, aber so was dauert nicht nur in Berlin lange.
+ Und man kann, falls das wirklich mal Realität werden sollte, auch dagegen klagen und nicht nur deshalb, aber auch deshalb braucht die Stadt, braucht eine Kommune sehr gute Gründe, um so eine Straße umzuwittmen und sie damit quasi dem Autoverkehr zu entziehen.
+ Daher entschied sich die Verwaltung zunächst mal für einen sogenannten Verkehrsversuch und dieser Verkehrsversuch fällt in die Gruppe der zweiten Möglichkeiten, wie ein Mann Autos von der Straße bekommen kann.
+ Dabei lässt man die Wittmung zunächst mal bestehen, aber man erlässt Anordnungen, die den Gemeingebrauch beschränken.
+ Und das sind dann eben quasi Anordnungen auf der Rundlage der Straßenverkehrsordnung, das bestimmte Verkehrsform nicht mehr zulässig sind.
+ Und das bote sich unter anderem auch deswegen an, weil man natürlich auch gerne mal loslegen wollte mit der Verkehrswende, wenn man wollte jetzt auch nicht mehr ewig warten.
+ Also schloss die Verwaltung zunächst mal die Friedrichstraße für den Autoverkehr, um Erfahrungen damit zusammen, wie sich das zum Beispiel auf die Verkehrsströme auswirkt, wenn jetzt keine Autos mehr durch die Friedrichstraße fahren können.
+ Und dann darf man dann auf der Grundlage der Ergebnisse des Verkehrsversuchs startete die Verwaltung dann das Verfahren für die Umwittmung doch, Philipp.
+ Das dauert halt und dauert und dauert und dann war der Versuch ausgelaufen, aber das Verfahren für die Umwittmung dauerte immer noch.
+ Also stand die Verwaltung vor der Frage, sollen wir also jetzt nach Ende dieses Versuchstiefge der Straße wieder für Autos öffnen?
+ So eine zische Stühle, Pflanzen, Weckräumen, Fahrräder wieder verdrängen, Aufenthaltsqualität geht zurück auf null.
+ Das war nicht populär, das wollte die Verwaltung nicht also beschlossen sie, bis die Umwittmung mal durch ist.
+ Schließen wir die Straße im Interesse der stätte baulichen Entwicklung für Autos.
+ Im Interesse der stätte baulichen Entwicklung machen wir die Friedelstraße dicht für die Autos.
+ Jetzt würde man ja denken, das ist jetzt keine Bundesautobahn. Das ist auch kein weiße Bundesflugplatz oder was.
+ Das ist auch keine Durchgangsteine, durchgangstrasse. Es ist eine ja wichtige, aber doch lokale Straße in Berlin Mitte.
+ Da wird doch die Bezirksverwaltung legitimiert und gewählt in freien demokratischen Wahlen entscheiden können.
+ Diese Straße hat da doch kein Autos mehr rein. Wir machen das so eine Fahrrad- und Fußgängerscheiße.
+ Sollte doch am Beginn.
+ Sollte man ja denken, zumal der Bezirk mittig durchaus ein Konzept hat.
+ Das heißt, man hatte sich ja durch das Überlegt und man hat es sogar ausprobiert in diesem Verkehrsversuch.
+ Autos sollen woanders fahren, die Friedlichstraße soll, das ist inzwischen entschieden sogar Fußgängerzone werden.
+ Und aus dem man sehen muss man so einen hin und her, erst für Autos sperren, dann Autos wieder zulassen, dann doch wieder sperren.
+ Und umwirkend durch ist das hilft ja irgendwie auch niemandem. Aber das Verwaltungsgericht Berlin sah das anders.
+ Denn eine Weinhändlerin, die da um die Ecke von der Friedlichstraße ihren Laden betreibt, hatte gegen die Spärung für Autos geklagt.
+ Und das Verwaltungsgericht gab ihr jetzt recht. Begründung, Autos raus, das geht nicht.
+ Es fehle an einer ausreichend großen Gefahr.
+ Dass die Friedlichstraße in ein paar Monaten auf jeden Fall Fußgängerzone werden soll, egal.
+ Und wenn man eine Autofabot geht, dann geht es nur, wenn es dort zu gefährlich ist.
+ Es ist nicht der einzige Grund, wenn man sich den Beschluss des Verwaltungsgerichts mal anguckt.
+ Gibt es auch ein paar formale Probleme bei der Frage, ist das hinreichend begründet, warum es für die Städtebeutelchen Entwicklung erforderlich ist?
+ Also muss man fairerweise im Nebensatz dazu sagen. Aber ein zentraler Grund war, ein Autofabot geht nur, wenn es dort zu gefährlich ist.
+ Und wir haben uns jetzt gefragt, kann das denn sein? Warum kann die Verwaltung den Wunsch der Mehrheit der Menschen in diesem Bezirk nicht umsetzen?
+ Das liegt an der veralteten Rechtslage und ganz zentral an der veralteten Straßenverkehrsordnung.
+ Das sagte uns Allmut Neumann, die Stadt retteln für den öffentlichen Raum im Berlin-Bezirk Mitte.
+ Sie sagt, die Rechtslage sei veraltet, denn die Straßenverkehrsordnung kurz SDVO binde der Verwaltung heute oft die Hände.
+ Genau, wir haben eben als ganz großes Ziel des Straßenverkehrsrechts, dass die Sicherheit und Leichtigkeit des Verkehrs erhalten bleibt und bei dieser Leichtigkeit des Verkehrs ist eben immer der Autofaker gemeint.
+ Und das macht es einfach total schwierig weitere Ziele reinzunehmen, wie zum Beispiel den Klima- und Umweltschutz die Gesundheit oder eben auch städte baulicher Aspekte, also Verkehrskonzepte, die beispielsweise auf Offenthalsqualität abzielen.
+ Und das bedeutet, wir müssen eigentlich immer, wenn wir irgendwo die Flüssigkeit des Autofakeres beschränken wollen, nachweisen, dass eine Gefahrenlage besteht.
+ Das heißt, am besten müssen wir zeigen, dass es schon Unfälle an der Stelle gab. Erst dann können wir handeln.
+ Also Sicherheit und Leichtigkeit des Verkehrs. Diese Formulierung aus der SDVO, das ist quasi die Trumfkarte des Autofakeres.
+ Und zwar die Sicherheit und Leichtigkeit des Autofakeres. Das ist der Witz dabei. Das heißt, die Verwaltung kann nicht einfach argumentieren.
+ Wir wollen die Aufenthaltsqualität steigern. Wir wollen sicherstellen, dass Menschen gerne unsicher rat fahren.
+ Das reicht nach der Straßenverkehrsordnung heute noch nicht aus.
+ Nein, wir müssen eben im Normalfall, ja, so gönnerte Qualifizierte Gefahrenlage nachweisen und die bedeutet, dass selbst die normalen Unfallgefahren nicht genügend, nein, es müssen mehr Unfallgefahren sein.
+ Also die örtlichen Fählten ist, müssen über das allgemeiner Risiko einer Beeinträchtigung von rechts zu guter erheblich hinausgehen.
+ Das heißt, wir brauchen mehr Unfälle als anderswo. Wir müssen erst mal auf Unfälle warten und das ist natürlich fast zynisch. Und entsprechend ehrlich gesagt, ja auch gar nicht unserer Verpflichtung, nämlich für den Schutz der körperlichen Unversehrtheit von allen Verkehrsteilnemen zu sorgen.
+ Also mit anderen Worten, die Verwaltung muss nicht nur warten, bis es mal kracht und dann was machen zu können.
+ Sie muss sogar so lange warten, bis klar ist, dass es an einer Stelle besonders oft kracht. Über das normale Maß, was immer das dann genau auch ist, im Verkehr hinaus.
+ Es dann kann sie einschreiten und damit die Verkehrswendet tatsächlich klappt, ja, dass also stettischer Raum umverteilt werden kann, dass Menschen anreize bekommen, das Auto stehen zu lassen, statt es mit dem Rad zu fahren.
+ Mit das klappt fordert Allmuth Neumann daher aus der Sicht der Praktikerin, die eben zuständig ist für den öffentlichen Raum über die Mitte, dass die rechtlichen Grundlagen geändert werden.
+ Also ich glaube zu den Zielen der Sicherheit und Leichtigkeit des Verkehrs ist es ganz wichtig, dass gleichrangig nicht nachgeordnet, sondern gleichrangig, hineinkommt, dass weitere Ziele verfolgt werden können, mittelstraßenverkehrlichen Anordnung.
+ Das ist Ersten, der Klima- und Umweltschutz, zweitens die Gesundheit und drittens die stättebauliche Entwicklung, also Stichwort, Aufenthaltqualität und so was wie Harbnetze etc.
+ Ja, das bedeutet also, die Straßenverkehrsordnung müsste geändert werden und damit das wiederum geht, bedarf es für auch eine Änderung des Straßenverkehrsgesetzes.
+ Das ist quasi das Gesetz auf dem diese Verordnung beruht, ihr kennt so dieses grundsätzliche Zusammenspiel, das Gesetz wird vom Parlament beschlossen, das Gesetz kann dann wiederum quasi so Öffnungsklauseln enthalten, dass die Verwaltung in Form einer Verordnung Details zu dem Gesetz regeln kann.
+ Aber der Gültisugnante Wesentlichkeitstheorie, das heißt die wesentlichen Entscheidung, muss der Gesetzgeber selber treffen und hier ist es eine dieser wesentlichen Entscheidung, die im Straßenverkehrsgesetz geregelt werden müsste, dass eben neben Sicherheit und Leichtigkeit des Autoverkehrs auch noch andere Themen für die Verwaltung eine Rolle spielen kann.
+ In der Stadt, noch was anderes wichtig als Autos, man kann es sich fast nicht vorstellen, zuständig dafür ist, man art es, Bundesverkehrsminister Volker Wissing von der FDP.
+ Nun ist ja ein Mut neu, man nicht alleine mit ihrer Forderung, ich habe ja nun wirklich auch jahrelang für den Deutschlandfunk über solche Themen berichtet und da kam immer wieder zwischen den Zahlen hervor.
+ Ja, da ist noch die FDP oder die FDP, wie müssen die FDP ummodellisieren? Und deswegen sind das jetzt auch zentrale Forderung von Befürwörterinnen der Verkehrswende auch in Berlin übrigens, die für den Verkehr zuständigen Stadträte, Stadträten haben, einen offenen Brief geschrieben an den Bundesverkehrsminister am 4. Oktober und haben ihn aufgefordert, die Voraussetzung zu schaffen.
+ Das in Zukunft eben keine Gefahrenlage mehr nötig ist, um irgendwas für Radfahrerin, Fußgänger und so was zu tun. Und zwar ist dieser Konsens an die auch Parteibergreifen muss man sagen.
+ Auch bundesweit bekommt die Forderung nach einer Reform der Straßenverkehrsordnung, klar mal auf und wahrscheinlich auch der Straßenverkehrsgesetzes als Verordnungsermächtigung viel rückenwind.
+ Beispielsweise möchten Hunderte Städte und Gemeinde zwischen sind es über 300, die Möglichkeit bekommen, Tempo 30 in ihrer Kommune anzuordnen, da wo sie es für richtig halten.
+ Und zwar unter anderem auch die Oberbürgermeisterin von Augsburg, von der CSU auch ein FDP Stadtrat aus Krefeld hat einen entsprechenden Beschluss im Stadtrat angelegt und in der es dann auch Parteibergreifen beschlossen worden.
+ So berichtet es jedenfalls die Zeit, mit anderen Worten diese Forderung mehr Möglichkeiten für die Kommunen in der Straßenverkehrsordnung. Das ist eine Forderung, die von allen demokratischen Parteien jedenfalls auf kommunaler Ebene mitgetragen wird.
+ Aber auch diesen Punkt, der Tempo 30 lässt die Straßenverkehrsordnung im Moment nicht so einfach zu.
+ Das ist nämlich so eine Anwendung, das habe ich mich auch gefragt, wie so Tempo 30 gibt, doch Tempo 30. Ja, es ist möglich Tempo 30 zonen einzurichten. Aber Tempo 30, da wo vielleicht der Gemeinderat das für sinnvoll hält, einfach so, das lässt die Straßenverkehrsordnung nicht zu.
+ Weil die Straßenverkehrsordnung verlangt eine besondere Gefahr oder andere wichtige Gründe um in den Autofarkär in die Schrankung zu weisen.
+ Deswegen ist das nicht einfach möglich zu sagen, die Durchfahrtstraße dadurch in so einem Ort 30 pengende beschlossen machen wird.
+ Und diese besondere Gefahr führt eben dazu, oder dieses Erfordern ist, dieser besondere Gefahr führt eben zu einem enormen Verwaltungsaufwand.
+ Da musst du also zum einen warten darauf, dass Unfälle tatsächlich passieren und dann musst du das kompliziert auswerten, musst alle möglichen Gutachten schreiben.
+ Also wir haben da im Hintergrund noch mal länger mit einem Mut Normandrüber gesprochen und sie kriegt die Krise, wenn sie nur darüber nachdenkt, was man alles für einen Aufwand betreiben muss, um diese Gefahr nachzuweisen, so dass das dann Formverwaltungsgericht auch hält.
+ Und man muss natürlich sehen, irgendeinen Raser gibt es halt immer, der versucht Tempo 30 Schild wegzuklagen.
+ Und deswegen verweist einem Mut Normand auf das Beispiel in Frankreich, denn unser Nachbarn ist beim Thema Verkehrswende schon wesentlich weiter als wir.
+ Beispielsweise ist in Paris ohne große Schwierigkeiten generell das Tempo 30 auf allen Straßen eingeführt worden, mit ausnahmeneiniger Ausfallstraßen, ohne dass es dafür komplexe Begründungen bedurfte.
+ In Deutschland hingegen gibt es ja eine ganz breite Initiative von Kommunen, die eben vordern, dass sie leichter über ihre Höchstgeschwindigkeit bestimmen können in der Orts.
+ Die leichter von Tempo 50 runtergehen können auf Tempo 30 auch auf Hauptverkehrsstraßen, aber das verwehrt eben das deutsche Straßenverkehrsrecht bis fangen.
+ Das heißt, man muss dann wirklich spezielle Dinge nachweisen, zum Beispiel erhöhte Lärme oder Luftbelastung und kann es nicht einfach tun aus eine Ordnungspolitischen Sicht auch, die einfach sagt.
+ Ganz vorbeugend, wenn Unfälle passieren und man mit 30 in jemanden reinrast, dann ist das Torsesrisiko einfach erheblich viel geringer.
+ Also wenn man mit 50, Tempo 50 in jemanden reinrast und das kann vielleicht schon Grund genug sein, um eine solche Anordnung zu treffen.
+ Ja und ich finde da wird halt deutlich wichtig, dass ist das die Kommunen da mehr Freiheiten bekommen, denn da fängt die Verkehrswende an.
+ Die Leute lassen ihr Auto stehen, wenn sie vernünftiger Radwege haben, wenn sie zu Fuß gehen können, solche Sachen und wenn das halt bundesweit einfach so passieren würde und die Kommunen das machen könnten und viele wollen das ja, weil viele Menschen das eben auch wollen, dann würde das die Verkehrswende glaube ich erheblich voranbringen und es steht ja auch im Koalitionsvertrag drin.
+ Das ist ja die erste Verordering, die erst die Verorderingung reduziert werden soll.
+ Also gerade diese Forderung, die auch einem mit Normen nachher erhoben hat, also quasi neben der Sicherheit und Leichtigkeit des Autofarkers, eben andere Gründe noch zu berücksichtigen, das steht ausdrücklich im Koalitionsvertrag, aber wir haben es eben schon angedeutet.
+ Für die Umsetzung zuständig ist das Verkehrsministerium unter Forca Wissing und dort tut sich bisher nach einem Jahr am Bild, sagen wir wenig.
+ Das ist eine Frau nicht um Schreibung. Also wir haben eben den Brief der Berliner Stadträtin und Stadträtin zitiert, die eben jetzt vom Verkehrsministerium vom paar Wochen gefordert haben, jetzt doch mal quasi aus dem Quark zu kommen.
+ Was wiederum ja im Grunde nur ein Hinweis ist auf die Verpflichtung aus dem Koalitionsvertrag, aber aus dem BMDV kam als Antwort nur ein Hinweis darauf, ja wir wissen es, stehen im Koalitionsvertrag.
+ Aber keine anderen Zusagen, die Verkehrsminister und Verkehrsministerin, die ja wie du gesagt hast, getagt haben, die haben auch darüber gesprochen und haben auch etwas ins Protokoll geschrieben, was wir uns mal angesehen haben.
+ Und dort findet sich immerhin die Passage unter Punkt 5, die Verkehrsministerkonferenz, also das sind die Verkehrsminister, Verkehrsministerin der Bundesländer und des Bundes.
+ Und das Bundesländer. 17 Leute. Also die Verkehrsministerkonferenz begrüßt die Vereinbarung im Koalitionsvertrag, Straßenverkehrsgesetz und Straßenverkehrsordnung anzupassen und neben der Flüssigkeit und Sicherheit des Verkehrs, die Ziele des Klima- und Umweltschutzes, der Gesundheit und der städtebaulichen Entwicklung zu berücksichtigen, um Ländern und Kommunen Entscheidungsspielräume zu eröffnen.
+ Das Ministerium, das Verkehrsministerium wird also aufgefordert zeitnah ein Reformverschlag für beides Gesetz und Verordnung gemäß der Vereinbarung vorzulegen. Jetzt kann man natürlich sagen, gut, ist eine Aufforderung, setzt mal einen Koalitionsvertrag um.
+ Aber ich finde, das sagt ja schon, dass die Mehrheit der Verkehrsminister und Verkehrsministerin der Länder sagen, wir wollen das. Die Kommunen sollen da mehr und eigenständige entscheiden dürfen, auch gleichrange Werten neben die Flüssigkeit des Autoverkehrs setzen dürfen.
+ Ja, also die Mehrheit der Länder wollen, dass das bedeutet ja auch schwarz regierte Länder, also unjuns regierte Länder sind da mit dabei.
+ Und im Ergebnis ist also mal wieder Volkerwissing am Zug. Und wie gesagt, viele dieser Wänden, die nötig sind im Verkehrsbereich, brauchen viele Kraftzeitkosten, viel Geld. Aber diese hier wäre einfach umzusetzen, würde überhaupt gar nichts kosten.
+ Das ist nochmal wichtig darauf hinzuweisen, auch so ganz generell.
+ Weil häufig die Argumentation ist, ja, das ist ein dickes Brett und es dauert, alles alles furchtbar kompliziert. Und da können Sie jetzt mit Ihrem Vorschlag auch gar nichts machen, weil das ist viel komplizierter als Sie denken und das verstehen Sie auch gar nicht.
+ Aber deswegen, ich finde es generell so wichtig, so erst mal komplexe politische Probleme abzuschichten, weil sie dann operationabel werden.
+ Man sieht ja, vieles ist kompliziert, aber man kann sich da auch Scheiben rausstrennen, wo man ganz klar sagen kann, okay, damit lösen wir nicht das ganze Problem.
+ Aber dieses Ding hier würde uns ein großen Schritt vorhanden bringen und es kostet nichts und es ist leicht zu machen, deswegen bitte Politik macht es. Und dies hier ist so ein paar Radebeispiele.
+ Ja, wir haben deswegen auch das Verkehrsministerium natürlich gefragt, die geht es denn weiter.
+ Wann wollte in Koalitionsvertrag umsetzen? Gibt es da schon ein Gesetzesvorschlag? Gibt es da ein Konzept?
+ Und wir haben keine Antwort bekommen, muss man zönermaßen auch sagen, also wir haben ein bisschen knapp angefragt, paar Stunden Zeit. Aber wie gesagt, das ist auf der anderen Seite jetzt kein völlig überraschende Frage.
+ Stimmt Koalitionsvertrag, da könnte eine Sprecherin auch sprechfähig sein. Wir warten ab, wenn noch was kommt, wird es selbstverständlich in der nächsten Woche nachgetragen.
+ Wir haben dann außerdem uns natürlich mal so ein bisschen umgehört und haben mit einem Vertrauten von VKWSING, vom Verkehrsminister gesprochen und haben immer gefragt, ja, was meinst du denn, warum macht der WSING der nix?
+ Zitat kam dann per Text Nachricht? Nach meinem Eindruck von Vertrauten von VKWSING. Nach meinem Eindruck geht es da in erster Linie um Symbolpolitik.
+ Das soll Leute wie euch, die Lagerredakteure also ärgern. Dahinter steht mehr als ein Fischen am rechten Rand, da geht es um die Mitte unserer Gesellschaft und die soll auch von einer mehrheitlich linken Regierung nicht desintegriert werden.
+ Zitatende. Das muss man natürlich mal so ein bisschen übersetzen. Mit anderen Worten bedeutet das, es soll aus symbolischen Gründen ein Kontrapunkt gesetzt werden, damit sich die Ampel für die Mitte der Gesellschaft nicht zu links anfühlt.
+ Darum geht es glaube ich. Natürlich haben wir das Ministerium auch mit diesem Vorhalt konfrontiert. Da kam ebenfalls nichts. Wir tragen das nach, wenn das noch so kommt.
+ Ich muss ganz ehrlich sagen, wir haben über diese strategische Ausrichtung der FDP Stichwort Opposition in der Ampel, haben wir schon ganz oft gesprochen und ich finde, das ist so ein weiteres Beispiel, wo man sich so ein bisschen wirklich fragt, muss das sein.
+ Ist das jetzt wirklich die richtige Baustelle um irgendwie anti-linke Symbolpolitik zu sein?
+ Ja, mich und zwar gegen die Vorstellung von lokalpolitiker innen allerkohle, wie seit selbst schwarze CSU Bürgermeisterin in Augsburg stellen sich hin und sagen wir wollen diese Öffnungsklausel für Tempo 30 und ich weiß nicht, ob das nur die richtige Baustelle ist, um zu sagen, wir machen hier mal anti-linke Symbolpolitik.
+ Ja, mich erinnert das wirklich an das Verhalten von Kindern, wo es darum geht, bei Kindern sich als Subjekt zu fühlen, sich als seine Identität zu definieren und da hast du als Kind nicht die Möglichkeiten, nicht die Werkzeuge, Verantwortung zu übernehmen, konstruktiv etwas zu machen, deine Identität da dich als Wesen als Subjekt zu definieren.
+ Also schaltest du oft trotz, du bist einfach gegen alles, was die anderen wollen und sind und machen und die Eltern im Typ.
+ Und die Eltern, genau, und du definierst darüber, dein Ich und dein Sein und so ein bisschen wirkt das hier auch.
+ Ja, statt progressive nach vorne zu gehen, selber zu definieren, was wollen wir Vorschläge zu machen, konstruktiv zu sein, da ein FDP-Gesetz, eine FDP-Progressive konstruktive Politik zu fahren, sagt man in diesen Punkten bei solchen Punkten.
+ Nur wir, wir sind FDP, weil wir sind gegen das, was die linken wollen und das ist so wenig.
+ Das ist tatsächlich so wenig und ich muss ganz ehrlich sagen, ich, man kann da natürlich jetzt ideologisch ganz verschiedene Perspektiven drauf haben.
+ Ich muss ganz ehrlich sagen, es ist aus Sicht der liberalen auch eine verschengte Chance, denn es ist ja, man kann das alles immer so eine bisschen eine Frage der Darstellung und des Framings, man kann ja auch sagen, die Vorgaben der Straßenverkehrsordnung sind eine Form von Überregulierung, der Bund schreibt dem ganzen Land vor, wie es zu laufen hat.
+ Wir könnten doch diese Überregulierung des Bundes auch mal zurücknehmen und überlassen diese Entscheidung stattdessen den Behörden und, vor allem natürlich den Parlamenten auf der kommunalen Ebene.
+ Man könnte ja einfach sagen, wir lassen quasi mehr Freiheit zu. Man könnte das so einem liberalen Projekt machen zu sagen, mehr Freiheit für die Kommunen, um selber Ortsnah im Washington das Wortes Sachnah zu entscheiden.
+ Das ist alles nur eine Frage des Framings und ich bin mir absolut sicher, dass Lise sich auch liberalen Menschen vor Ort verkaufen, dass ihre lokalen Parlamente bestimmte Entscheidungen treffen können.
+ Also insofern ist, wenn du da recht hast mit deiner Analyse, dass das im Grunde so ein bisschen kindisch ist, d'acor, aber ich finde es vor allem auch politisch einfach Schade, diese Chance sich entgehen zu lassen, im besten Sinne liberale Politik zu machen.
+ Ich finde es ja wichtig, oder wie finden Sie wichtig, dass wir hier in der Lage auch mal positive Entwicklung beleuchten und nicht immer nur so dunkles Scenarien malen und einen dieser positiven Entwicklung, die sich jetzt schon länger angedeutet hat und jetzt demnächst wirklich Realität wird, ist der Inflation Reduction Act in den USA.
+ Also erstmal ein ziemlich unsexingahme Inflationsredukationsgesetz, aber unter dem Strich muss man sagen, ist das endlich mal veritabler Klimaschutz made in USA.
+ Ja, es gibt da Greiberain über die Strechen, sprechen wir auch gleich, deswegen hat sich diese Woche auch der Handels- und Technologie-Rat getroffen.
+ Also, amerikanische US-Ministerin und auch Spitzenvertreter der Kommission haben sich an der Uni in Maryland, in der Nähe von Washington getroffen.
+ Jetzt das dritte Mal, um eben da Reiberain zu diskutieren, aber unter dem Strich ist das ein enorm wichtiges Projekt auch für den Klimaschutz und da wird einiges passieren.
+ Ja, zu den nächsten wir wollen uns noch mal anschauen, was hat es mit diesem Inflation Reduction Act auf sich?
+ Wir hatten die in der Lage schon kurz dargestellt, daher jetzt mal so im Übergleg ursprünglich mal sollte das ein 3,5 Billionen Dollar-Schweresgesetzespaket sein.
+ Das ist dann im Kongressmassiv eingedampft worden, übrigens vor allem deswegen, weil auch ein demokratischer Senator Joe Mönchen aus West Virginia nicht so richtig mitmachen wollte, der ist nämlich Kohlekumpel.
+ Na gut, aber jedenfalls im Fest dieses Programm jetzt immer noch die doch beeindruckende Summe von 485 Milliarden Dollar, das ist also mehr als der gesamte Bundeshaushalt.
+ Und dieser IRA-Inflation Reduction Act umfasst zwei Teile, also zum einen geht es um gesundheitspolitische Neuerungen im Wert von knapp 100 Milliarden Dollar, die betrachten wir jetzt nicht, sondern vor allem geht es auch um Klimaschutz, das sind dann also noch 386 Milliarden Dollar in Form von Investitionshilfen, Steuergutschriften und Abschreibungen für Lib und da geht es also um einen bunten Strauß von ganz vielen Einzelmaßes.
+ Ja, ich fand das einfach interessant zu lesen, weil das eben schon deutlich macht, wie tief dort diese Förderung in das Wirtschaftssystem und in die Wirtschaft eingreift, das reicht also.
+ Hochmoderne Wasserschaftindustrie soll Förderung, Steuergutschriften, Abschreibungen bekommen. Der Ausbau der Solarwind, Wasser, Biomasse und Atomstrom, das muss man auch dazu sagen, Atomstromproduktion.
+ Dafür können für Steuergutschriften im Gesamtwollum von 160 Milliarden Dollar erhalten, 37 Milliarden Dollar gibt es für Industrie, Fabriken, die halt ihre Energieversorgung umstellen von Facil auf an neuerbare Energie-Träger, Hersteller, die also neue Werke bauen oder bereits bestehende Produktionsstätten für Elektrofahrzeige umrüsten werden kräftig gefördert.
+ Die Familienkriegenbeife für den Kauf von Wärmepumpen und auch für den Kauf von Solaranlagen, wer kleine und mittlere Einkommen bezieht, soll Steuergutschriften kriegen für den Kauf von neuen Autos, E-Autos, aber auch für den Kauf von gebrauchten E-Autos.
+ Also da geht es wirklich durch die ganze Palette Förderung, Steuergutschriften, Investitionshilfen von fast 400 Milliarden Dollar.
+ Und das Ganze soll eben erst der 1. Jahr, also im Monat in Kraft treten und das Ziel ist eben die Treibhausgase bis 2030, also in den nächsten knapp 8 Jahren, minus 40 Prozent runterzubringen vergleich zu 2005.
+ Das wäre eine substanzielle Verbesserung.
+ Ja, es reicht immer noch nicht vor 1,5.
+ Klar, aber vergleichen mit dem, was sonst auf der Welt passiert und was mit vergleichen mit dem, was bisher so in den USA passierte, ist das ein substanzieller Fortschritt der anders zu hoffen.
+ Einerseits also ein äußerst ambitioniertes Klimaschutzgesetz gab auch viel Applaus dafür, zum Beispiel die internationale Energieagentur werte diesen IRA als echt Meilenstein.
+ Andererseits und jetzt kommen wir so ein bisschen zu den Fußangeln, ist Bedingungen für sehr viele dieser Subventionen, dass die Waren- oder Dienstleistung ganz oder jedenfalls teilweise made in USA sein müssen.
+ Ja, also beispielsweise sollen BetreiberInnen von Windparks nur dann in den Genuss der vollen Subventionen kommen.
+ Wenn sie beim Bau der Windräder in ausreichende Maße amerikanischen Stahlverwendung.
+ Neuwagenprämie gibt es auch nur, wenn Pkw in den USA entmontiert wurden Batterien, das wieder so ein Hinweis, wie tief das reicht.
+ Batterien müssen zu dem bestimmten Mengen an Metall enthalten, die entweder im Inland recycelt oder in einem Staat gefördert wurden, der über ein Handelsakom mit den USA verfügt.
+ Das ist also vor allem eine Antichina Maße. Antichina Maße. Und das macht also deutlich, ja, da wird der klimafreundliche Umbau der Wirtschaft extrem gefördert, aber eben mit doch recht protectionistischen Mitteln und nun fölchtet also die EU, die Kommission, aber auch viele Staaten in der EU A.
+ Es könnten Firmen aus der EU abwandern in die USA, Fabriken dort hin verlegen, um eben diese Steuergutschriften, Zuschüsse, etc. zu kassieren, weil es da eben nur gibt, wenn Dinge in den USA produziert worden sind.
+ Zum Beispiel, oder generell könnte man sich im Vorständnis einfach Milliarden Investitionen jetzt in die USA verlagert werden, oder dass zum Beispiel auch die europäische Industrie abgehängt wird, bei der Entwicklung und Produktion von Klimaschonender-Technologie,
+ weil eben auch da starke Anreize gesetzt werden, die Produktion doch in die USA zu verlagern. So, und die europäische Union findet natürlich diesen Klimaschutz- Aspekt eigentlich gut hat, aber noch keine klare Strategie, wie man mit diesen protectionistischen Untertöden am besten umgehen sollen.
+ Da gibt es natürlich eine Reihe grundsätzlich denkbarere Reaktionen der EU. Die EU könnte zum Beispiel vor der Welthandelsorganisation klagen und sagen hier, das widerspricht den Regeln, die wir alle miteinander vereinbart haben, wir hätten gerne die erlaubnisstraffzölle zu erheben.
+ Ja, also das ist der erste Schuss in einem Handelskrieg im Grunde. Oder es geht in der zweiten, wenn man die US-Maßnahmen schon als ersten Schuss werden will. Oder man könnte natürlich auch mit Sanktionen gegen US-Firm reagieren.
+ Also in dem man zum Beispiel US-Firm von europäischen Ausschreibung ausschließt, oder letzte Möglichkeit, die jetzt auch gerade in den Kreisen der EU-Kommission, sagen wir mal langsam, aber sicher wohl favorisiert wird, man könnte einen eigenen großen, multimillionen Vorn für Subventionen zugunsten von Unternehmen in der Europäischen Union aufsetzen.
+ Und zwar mit und das das interessante eigenen Schulden. Also nicht wo die Staaten im Wiegeld einsammeln, sondern wo die EU, wie sie das bei Covid schon einmal getan hat, als EU massiv Schulden macht, das ist extrem umstritten, aber natürlich in der Diskussion.
+ Und dann das Klanger eben schon so ein bisschen an, hier in dem Einsatz, also Batterien und so weiter kriegen nur Forderungen, wenn sie aus einem Landstamm, dass mit den USA ein Handelsabkommen hat. Und da fordert dann zum Beispiel die deutsche Zeitung, na ja, dann braucht die EU ein neues Titipp mit den USA. Also ein neues Handelsabkommen mit den USA.
+ Genau, also Titipp ist ja vor einem jahnener Diskussion gewesen, sollte ein großes Handelsabkommen seinen Zwischen der Europäischen Union und den Vereinigten Staaten insbesondere gab es noch ein paar andere Länder, die damit dabei sein sollten.
+ Und das ist damals in der Zivilgesellschaft sehr scharf kritisiert worden, stichwort wollen wir denn hier bei uns auf dem Teller "Klorhünchen" aus den Vereinigten Staaten haben, also Hünchen, die irgendwie mit "Klor" glaube, das sind fiziert oder haltbar gemacht worden sind oder das sind wir ja genau.
+ Das wurde ziemlich polimisiert, gegen bestimmte Lebensmittel, die eben in den Vereinigten Staaten zulässig sind bei uns aus guten Gründen nicht. Und dann ist Titipp letztlich gescheitert, weil auch Donald Trump sich nicht mehr da richtig dafür erwärmen konnte.
+ Und die süddeische Zeitung bringt jetzt eben ins Spiel, man soll jedoch die Verhandlungen zu einem solchen Freihandelsabkommen wieder neu beleben.
+ Ja, die Idee dabei ist halt, wir einigen uns innerhalb so eines Abkommens, welche Zölle nehmen wir für was nehmen wir keine Zölle, für was geben wir Subventionen, für was geben wir keine Subventionen.
+ Einfach wir einigen uns darauf, wie wir unsere Wirtschaft fördern, ohne die des anderen Landes oder der anderen Vertragspartner zu sehr zu schaden.
+ Und das ist die Idee und uns wurde jetzt einfach interessieren, was ihr davon haltet. Also macht so was Sinn, so einen Handelsabkommen zu machen, gibt es da Vorbilder, die sinnvoll sind, was haltet ihr davon.
+ Und da bietet sich natürlich an das Emporum mal abzuwerfen und Talkpunktlage der Nation.org, da würden wir sehr interessiert mitlesen, wenn von euch da input kommt, was von so einem Handelsabkommen zu einem an neuerten Handelsabkommen von eurer Seite aus zu halten.
+ Ja, jetzt kommen wir noch zu einem kleinen Hinweis, Philipp. Wir hatten ja in der Lage schon gelegentlich mal verwiesen auf den Podcast Mittler von zwei Freundinnen von dir, von dir Katja Bigeike und Marietta Schwarz.
+ Der Podcast Mittler ist inzwischen ausgelaufen, aber die beiden Hosts dieses Podcasts haben einen Buch geschrieben.
+ Ja, ein ausgelaufen ist ein hartes Wort, es gibt zwei Staffeln. Aber noch mal auf der Nicht-Ja-Genau-Es-Es-Es ist natürlich noch anzuhören.
+ Und lohnt sich auch nach wie vor, weil das natürlich zeitlose Folgen sind. Rund um das Thema Mittler-F, richtet sich vor allen Dingen an Frauen, aber Männer spielen auch, spielen auch eine Rolle.
+ Und die dritte Folge weiß ich nicht, ob es noch mal eine dritte Staffel gibt, aber es gibt die erste und zweite, bei mir im Kügenstudie erschienen, aber überall da, wo ihr Podcast hört, findet ihr unter dem Stichwort Mittler-F, den Podcast von Katja Bigeilke und Marietta Schwarz-Genau.
+ Und die beiden haben einen Buch geschrieben im Aufbauverlag. Das kann man noch nicht lesen, aber ihr kennt diese Mechanik, man kann es vorbestellen. Das hilft natürlich dann, wenn das Buch dann mal draußen ist, dabei das Buch zu finden,
+ weil es dann potenziell, wenn es als ausreichend Vorbestellung gegeben hat, durchaus obere Plazierungen in diversen Charts geben kann.
+ Und das, wie gesagt, hilft dabei, das Buch zu finden, wenn euch das auch nur Latent interessiert, dann würde ich sagen, freuen sich die beiden über eine Vorbestellung. Wir haben ein Ding zum bekannten Online-Händler gesetzt.
+ Gibt es natürlich auch noch woanders, aber man sollte das dann an einer Stelle sammeln, damit es dann auch im Pact hat, findet ihr in den Chornos, aber ich könnt das Buch natürlich an.
+ Vielen, ordnen, Vorbestellen, vielen Dank dafür.
+ Dann haben wir noch einen zweiten Hinweis und zwar, diesmal betrifft es ein Projekt nicht von mir, sondern von Ulf und zwar hat die Gesellschaft für Freiheitsrechte deren Präsident Vorsitzende, du ja noch bis zwei ganz spannende Jobs im Angebot, die zu besetzen sind.
+ Ja, ganz genau. Und zwar zum einen suchen wir eine Referentin für cross-mediale Presse- und Öffentlichkeitsarbeit und eine Referentin für das Fundraising. Also zwar sehr, sehr spannende Stellen in unserem Bereich Presse-Öffentlichkeitsarbeit und Fundraising unter der Leitung von Dr. Maria Schalau, eine ganz liebe Kollegin von mir, die wir vor etwa einem Jahr von Emnesty International übernommen haben, die bei uns die Presse- und Medienarbeit leitet und das, wie ich finde, ganz toll macht.
+ Wenn ihr also Lust habt, in ihrem Team zu arbeiten, auch mit in meinem Team zu arbeiten und euch um die öffentliche Wirkung der GFF zu kümmern, sowohl in der Presse als auch beim Einsammeln von Spenden, damit wir für Grund- und Menschenrechte vorgericht kämpfen können, dann bewerbt euch gerne bei der Gesellschaft für Freiheitsrechte.
+ Die Bewerbungsfrist läuft jetzt noch einen knappen Monat bis zum sechsten Januar, das heißt, also ich habe über die Weihnachtsphäre, in Zeit eine schöne Bewerbung zu schreiben und nähere Informationen zu diesen beiden Jobs findet ihr auf unserer Homepage unter.
+ "Freihheitsrechte.org/jobs" den Link findet ihr dann auch noch wie gewohnt bei uns in den Schonauts.
+ Ulf, das war es für diese Woche. Die Lage ist, wie immer ausführlich und natürlich abschließend beurteilt, so sieht es aus.
+ Und wir haben noch eine klitzende Bitte an euch und zwar falls ihr uns mit der Apple Podcast App hört aufm iPhone, aufm iPad zum Beispiel, diese App hat ja in letzten Jahren eine Gefordschritte gemacht.
+ Dann freuen wir uns über eine positive Bewerbung. Wir haben gerade wieder mit rechten Haskommenten zu kämpfen, vermutlich hat das mit unserer Berichterstattung über die Reformimmigration zu tun.
+ Also wenn ihr Zeit und Lust habt uns ein paar freundliche Worte zu hinterlassen, dann würden wir uns sehr freuen in der Apple Podcast App oder natürlich auch in jeder anderen App Eures Vertrauens.
+ Und in diesem Sinne, ganz herzlichen Dank für euer Interesse an unserem Podcast. Habt einen schönen Rest der Woche, ein schönes Wochenende bis bald.
+ Bis zum nächsten Woche. Ciao!
